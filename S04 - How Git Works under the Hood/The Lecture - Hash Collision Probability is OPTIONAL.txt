@@ -1,0 +1,3 @@
+The lecture "More details on hash collision probability" is optional.
+
+To generalize - hash collision probability is extremely low and it almost never ever happens even in very big repositories. So, just don't take it into account.

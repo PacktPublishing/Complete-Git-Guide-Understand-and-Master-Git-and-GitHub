@@ -1,0 +1,6 @@
+Which Husky version to install
+
+IMPORTANT
+In the lecture "Using pre-commit NPM package for automation of the pre-commit hook", please install 4th version of Husky as 5th version has breaking changes and honestly is harder to setup and use
+
+npm install -D husky@4.3.8

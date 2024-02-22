@@ -1,0 +1,5 @@
+Now default branch for new repositories at GitHub is "main"
+
+Yes, now default branch is main but it is just change of the name. Many projects still use master as primary branch.
+18. It is alias, not built-in command. 
+You could create the same alias using git config command
